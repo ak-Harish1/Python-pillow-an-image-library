@@ -1,1 +1,1 @@
-# Python-pillow---an-image-library
+# Python-pillow-an-image-library
